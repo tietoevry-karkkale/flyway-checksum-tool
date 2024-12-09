@@ -4,7 +4,7 @@ plugins {
 
 group 'net.nllk'
 
-sourceCompatibility = 1.11
+sourceCompatibility = 23
 
 jar {
     manifest {
